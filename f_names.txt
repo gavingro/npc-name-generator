@@ -1,7 +1,6 @@
 John,
-Peter,
-Mark,
-Anthony,
-Wendel,
-Mortimer,
-June
+Pete,
+Henry,
+Jack,
+Ralph,
+Karen,
