@@ -4,8 +4,8 @@ from generator_script import Name_Generator, get_names
 # Global variables for testing
 base_name_gen = Name_Generator("f_names.txt", "l_names.txt")
 
-for n in range(40):
-    print("My name is " + base_name_gen.generate_name())
+# for n in range(40):
+#     print("My name is " + base_name_gen.generate_name())
 
 
 class TestNameGenerator(unittest.TestCase):
