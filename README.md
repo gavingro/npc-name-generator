@@ -1,5 +1,7 @@
 # npc-name-generator
 An rpg tool that provides names on the fly!
+The normal use case is using name_list files, and the script will grab one name
+from those lists.
 
 ## Filetree:
 * README.md - *this document with some info.*
