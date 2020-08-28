@@ -12,3 +12,4 @@ An rpg tool that provides names on the fly!
 
 * f_names.txt - *some first names to start testing with*
 * l_names.txt *some last names to start testing with*
+* used_names.txt *the list of the names used*
